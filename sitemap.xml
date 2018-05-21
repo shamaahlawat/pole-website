@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://poletalks.com/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+  <image:image>
+    <image:loc>http://poletalks.com/img/logo.png</image:loc>
+    <image:caption>Poletalks Logo</image:caption>
+    <image:title>Pole All</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://poletalks.com/blog/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://poletalks.com/blog/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://poletalks.com/blog/terms-and-conditions/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://poletalks.com/blog/privacy-policy/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+
+</urlset>
